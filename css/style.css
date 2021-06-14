@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Pacifico&display=swap");
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+.brand-logo {
+  font-family: "Pacifico", cursive;
+}
+
+.slides h3,
+.slider h5 {
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+}
+
+.slides img {
+  /* filter: grayscale(100%); */
+  filter: blur(4px);
+}
+
+/* .about,
+.services,
+.portfolio,
+.contact {
+  padding-top: 50px;
+} */
+
+section,
+footer {
+  padding: 20px 0;
+}
+
+.about h4 {
+  font-weight: 700;
+  color: rgb(6, 128, 2);
+}
+
+.about p {
+  font-size: 18px;
+}
+
+.card-panel h5 {
+  font-weight: 500;
+}
