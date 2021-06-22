@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 html {
   font-family: "Montserrat", sans-serif;
@@ -11,6 +12,10 @@ html {
 .slides h3,
 .slider h5 {
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
 }
 
 .slides img {
