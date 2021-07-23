@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .brand-logo {
@@ -11,7 +11,12 @@ html {
 
 .slides h3,
 .slider h5 {
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+  text-shadow: 2px 2px 5px rgb(35, 119, 60);
+  color: rgb(172, 255, 169);
+}
+
+.slides h3 {
+  font-weight: bold;
 }
 
 h2 {
